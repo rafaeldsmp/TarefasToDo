@@ -1,0 +1,20 @@
+.container {
+    background-color: #17181f;
+    color: #797A81;
+    min-height: 100vh;
+    
+    .area {
+        margin: auto;
+        max-width: 980px;
+        padding: 10px;
+        
+        h2{
+            border-bottom: 1px solid #444;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            padding-bottom: 20px;
+            text-align: center;
+        }
+    }
+}
